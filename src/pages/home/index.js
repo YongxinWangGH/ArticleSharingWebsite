@@ -29,7 +29,7 @@ class Home extends PureComponent {
 				</HomeLeft>
 				<HomeRight>
 					<Recommend />
-					<Writer />
+				
 				</HomeRight>
 				{ this.props.showScroll ? <BackTop onClick={this.handleScrollTop}>BackToTop</BackTop> : null}
 			</HomeWrapper>

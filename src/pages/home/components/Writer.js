@@ -5,7 +5,7 @@ class Writer extends PureComponent {
 
 	render() {
 		return (
-			<WriterWrapper>HomeWork</WriterWrapper>
+			<WriterWrapper></WriterWrapper>
 		)
 	}
 }
